@@ -49,6 +49,13 @@ Block Diagram
         └──────────────────┘
 
 
+PROJECT IMAGES:
+![WhatsApp Image 2025-11-08 at 9 54 29 AM](https://github.com/user-attachments/assets/61a2b0c1-0e35-4067-a058-d3fd091a24cf)
+PROJECT WORKING VIDEO:
+
+PROJECT REPORT:
+[043f31fa-203e-4adc-bc84-3728c7eb0980.docx](https://github.com/user-attachments/files/25046081/043f31fa-203e-4adc-bc84-3728c7eb0980.docx)
+
 🧩 Components Used
 
 1.BC547 Transistor
