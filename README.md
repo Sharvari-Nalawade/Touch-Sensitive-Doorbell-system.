@@ -8,6 +8,7 @@ This project works on the principle of human body conductivity. When a user touc
 The circuit is powered using a 9V battery and assembled on a breadboard using jumper wires, enabling easy prototyping, testing, and debugging 🧪. A 1 kΩ resistor is used to limit current and protect the transistor from damage ⚡.
 
 Block Diagram
+
         ┌──────────────────┐
         │   Human Touch    │
         │  (Finger Input)  │
