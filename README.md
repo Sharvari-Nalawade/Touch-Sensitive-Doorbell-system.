@@ -53,6 +53,13 @@ PROJECT IMAGES:
 ![WhatsApp Image 2025-11-08 at 9 54 29 AM](https://github.com/user-attachments/assets/61a2b0c1-0e35-4067-a058-d3fd091a24cf)
 PROJECT WORKING VIDEO:
 
+
+https://github.com/user-attachments/assets/168e69c9-aa11-4297-9e4c-fe745f99c9c1
+
+
+
+
+
 PROJECT REPORT:
 [043f31fa-203e-4adc-bc84-3728c7eb0980.docx](https://github.com/user-attachments/files/25046081/043f31fa-203e-4adc-bc84-3728c7eb0980.docx)
 
